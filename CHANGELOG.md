@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.1.1] - 2026-08-31
+
+### Changed
+
+- The portfolio relationship now points to `physical-ai-portfolio` and identifies this repository as the public `pai-outreach` track.
+
 ## [0.0.1.0] - 2026-08-31
 
 ### Changed
