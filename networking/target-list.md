@@ -1,6 +1,6 @@
 # Networking Target List: Physical AI / Warehouse Automation
 
-A starting list of people and organizations to follow, reach out to, and build relationships with over the 3-month sprint. The goal is 30+ outreach messages and 5+ real conversations.
+A public map of organization and role categories for possible future outreach. It does not authorize current outreach or store relationship-level records.
 
 ## Categories and examples
 
@@ -35,7 +35,7 @@ Operators in Southeast Asia are the best source of deployment reality. Target op
 
 - Regional 3PLs: CJ Logistics, DHL Supply Chain, DB Schenker, Kuehne+Nagel, Nippon Express, Kerry Logistics, Ninja Van, Janio, Locad.
 - E-commerce fulfillment: Lazada, Shopee, Zalora, TikTok Shop logistics teams.
-- Cold chain and food distribution: your existing network in Indonesia is a strong wedge here.
+- Cold chain and food distribution operators in Indonesia and Southeast Asia.
 - Industrial real estate and logistics parks: Mapletree, GLP, Prologis APAC teams.
 
 ### 4. Robotics and Physical AI founders and investors
@@ -58,7 +58,7 @@ Build relationships with people who are building or funding Physical AI in Asia 
 
 - Other former operators turned robotics investors or advisors.
 - CEOs and COOs of 3PLs and e-commerce fulfillment companies in Southeast Asia.
-- Supply chain and operations executives from your prior network (GudangAda, BCG, MIT Sloan alumni).
+- Supply chain and operations executives with commerce, consulting, or business-school experience.
 
 ## How to find the right contact
 
@@ -66,7 +66,7 @@ Build relationships with people who are building or funding Physical AI in Asia 
 2. Search for people with titles like "Solutions Engineer," "Deployment Manager," "Field Operations," "Customer Success," "Product Manager," "APAC Director," or "Business Development."
 3. On X, search for people tweeting about warehouse automation, AMR deployments, logistics, or Physical AI.
 4. Look for conference speaker lists from LogiMAT, CeMAT SE Asia, and ProMat Asia.
-5. Ask warm intros from your existing network before cold outreach.
+5. If outreach is activated, coordinate any warm introductions outside this public repository.
 
 ## Tracking
 
@@ -74,13 +74,15 @@ This public repository stops at organizations, public role archetypes, and aggre
 
 If outreach is activated later, keep relationship-level tracking in a private system outside this Git repository. Do not name or inspect that system from this public project.
 
-## Goal
+## Conditional activation goals
 
-- 30 identified contacts.
+These goals apply only after the portfolio restart gate is satisfied:
+
+- 30 public organization or role targets identified.
 - 20 outreach messages sent.
 - 10 responses.
-- 5 real conversations (video call or in-person coffee).
+- 5 real conversations.
 
 ## Next action
 
-Pick 5 people from one category this week and send the first message.
+Keep this track Parked. Reassess only after a validated portfolio case is approved for external communication.
