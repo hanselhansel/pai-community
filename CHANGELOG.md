@@ -8,3 +8,4 @@
 - Parks outreach until a validated case is approved for external communication.
 - Separates public organization and role categories from private relationship records.
 - Adds ignore rules for likely private contact exports and meeting notes.
+- Adds an automated public-boundary check with isolated regression fixtures.
