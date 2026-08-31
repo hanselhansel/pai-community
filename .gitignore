@@ -1,0 +1,7 @@
+# Private relationship operations never belong in this public repository.
+contacts.*
+contact-export*
+outreach-tracker*
+conversation-notes/
+meeting-notes/
+private/

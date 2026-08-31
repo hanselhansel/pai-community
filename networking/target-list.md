@@ -70,12 +70,9 @@ Build relationships with people who are building or funding Physical AI in Asia 
 
 ## Tracking
 
-Use a simple spreadsheet or note file. For each person, track:
-- Name, role, company, date of first contact.
-- Channel (LinkedIn, X, email, intro).
-- Why this person matters.
-- Status (identified, contacted, responded, call scheduled, spoke).
-- Notes from the conversation.
+This public repository stops at organizations, public role archetypes, and aggregate goals. Do not record personal names, contact details, contact dates, message history, response status, meeting notes, or non-public feedback here.
+
+If outreach is activated later, keep relationship-level tracking in a private system outside this Git repository. Do not name or inspect that system from this public project.
 
 ## Goal
 
