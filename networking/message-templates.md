@@ -2,6 +2,8 @@
 
 Templates for LinkedIn and X outreach. Each message is short, specific, and starts with a real observation. Avoid generic connection requests.
 
+This track is Parked. Keep these templates as reference material until a validated portfolio case is approved for external communication.
+
 ## Template 1: To a vendor deployment or solutions person
 
 Hi [Name], I saw your team at [Company] deployed [specific project or milestone]. I am spending the next few months understanding how warehouse automation actually gets deployed in Southeast Asia, especially the gap between the pilot and production. Would you be open to a 15-minute call? I am happy to share notes from the operator side.
@@ -49,4 +51,4 @@ I will follow up with [specific thing you promised]. Let me know if anything fro
 
 ## Tracking
 
-Use the target list in `target-list.md` to track who you contacted, when, and what you learned.
+The public target list stores organization and role categories only. If outreach is activated, keep relationship-level tracking outside this public repository.
