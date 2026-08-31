@@ -4,7 +4,7 @@
 
 ### Changed
 
-- The portfolio relationship now points to `physical-ai-portfolio` and identifies this repository as the public `pai-outreach` track.
+- You can now follow the canonical [Physical AI Portfolio](https://github.com/hanselhansel/physical-ai-portfolio) and confirm this repository's public `pai-outreach` role from the [portfolio relationship](README.md#portfolio-relationship).
 
 ## [0.0.1.0] - 2026-08-31
 
