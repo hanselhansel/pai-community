@@ -49,4 +49,4 @@ I will follow up with [specific thing you promised]. Let me know if anything fro
 
 ## Tracking
 
-Use the target list in `target-list.md` to track who you contacted, when, and what you learned.
+The public target list stores organization and role categories only. If outreach is activated, keep relationship-level tracking outside this public repository.
