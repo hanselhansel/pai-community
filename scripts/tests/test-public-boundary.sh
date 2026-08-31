@@ -15,6 +15,7 @@ run_case() {
   git -C "$root" config user.name Test
   git -C "$root" config user.email test@example.com
   mkdir -p "$root/networking"
+  printf 'public outreach\n' > "$root/README.md"
   printf 'public categories\n' > "$root/networking/target-list.md"
   printf 'public template\n' > "$root/networking/message-templates.md"
   case "$fixture" in

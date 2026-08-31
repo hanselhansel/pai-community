@@ -19,8 +19,8 @@ while IFS= read -r tracked_file; do
   esac
 done < <(git -C "$root" ls-files)
 
-if git -C "$root" grep -n -i -E 'track who you contacted|date of first contact|notes from the conversation' -- . >/dev/null 2>&1; then
-  git -C "$root" grep -n -i -E 'track who you contacted|date of first contact|notes from the conversation' -- . >&2
+if git -C "$root" grep -n -i -E 'track who you contacted|date of first contact|notes from the conversation' -- README.md networking >/dev/null 2>&1; then
+  git -C "$root" grep -n -i -E 'track who you contacted|date of first contact|notes from the conversation' -- README.md networking >&2
   failed=1
 fi
 
