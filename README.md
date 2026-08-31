@@ -35,6 +35,6 @@ The checker rejects tracked private-path patterns and removed relationship-track
 
 ## Portfolio relationship
 
-The current portfolio entry point is [physical-ai-foundation](https://github.com/hanselhansel/physical-ai-foundation). The approved destination is `physical-ai-portfolio`; the current URL remains authoritative until migration verification.
+The portfolio entry point is [physical-ai-portfolio](https://github.com/hanselhansel/physical-ai-portfolio).
 
-The approved repository destination is `pai-outreach`. Current links continue to use `pai-community` until the rename is verified.
+This repository is the public `pai-outreach` track.

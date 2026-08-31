@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.1.1] - 2026-08-31
+
+### Changed
+
+- You can now follow the canonical [Physical AI Portfolio](https://github.com/hanselhansel/physical-ai-portfolio) and confirm this repository's public `pai-outreach` role from the [portfolio relationship](README.md#portfolio-relationship).
+
 ## [0.0.1.0] - 2026-08-31
 
 ### Changed
