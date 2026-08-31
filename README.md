@@ -1,7 +1,7 @@
 # pai-community
 
-Singapore Physical AI community building: events, talks, outreach, and speaker notes.
+Physical AI community building: outreach, future event plans, and speaker notes.
 
-## Events
+## Status
 
-See `events/` for planning notes and recordings.
+Live events are out of scope for this 3-month sprint. This repo holds notes and plans for future community work.
